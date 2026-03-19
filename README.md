@@ -41,7 +41,8 @@ Returns the total sum of all donations.
 ---
 
 ## 🚀 Deployed Smart Contract Link
-XXX
+🔗 https://stellar.expert/explorer/testnet/tx/48eb5ac7652b17ef5fb52999b4e5f92d17051923e34f5b97f878eee7f9602470
+🔗 https://lab.stellar.org/r/testnet/contract/CAFV2WGHQM2FM4BSV7XXP7TR27BBVGIZ6XNUCOWZFBUK2LBREW57DPY6
 
 ---
 
